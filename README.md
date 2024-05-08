@@ -1,2 +1,2 @@
-To start the install node modules.
+To start ,first install node modules.
 then do npm start 
